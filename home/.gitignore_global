@@ -1,0 +1,10 @@
+# cucumber's rerun file
+/rerun.txt
+.DS_Store*
+.tm_properties
+tags
+.idea/
+*.jks
+.idea/vcs.xml
+server/logfile
+.ruby-version
